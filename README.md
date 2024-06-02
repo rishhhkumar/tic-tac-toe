@@ -46,9 +46,9 @@ The game initializes the main frame, sets up the text label, and creates the 3x3
 
 ## Screenshot
 
-![Tic Tac Toe Win](https://github.com/rishhhkumar/tic-tac-toe/assets/97832186/e10d583e-9ca1-4f43-b62f-967a945fafe9)
+![Tic Tac Toe Win](https://github.com/rishhhkumar/tic-tac-toe/assets/97832186/f6b27a51-07e0-4a12-9b7a-09718c3a9b9b)
 
-![Tic Tac Toe Tie](https://github.com/rishhhkumar/tic-tac-toe/assets/97832186/6417e362-5fa6-4931-8f33-760bab0de7af)
+![Tic Tac Toe Tie](https://github.com/rishhhkumar/tic-tac-toe/assets/97832186/7c601f90-0842-45fb-8cd6-827ca12b378e)
 
 ## Contributing
 
